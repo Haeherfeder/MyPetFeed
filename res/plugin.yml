@@ -1,0 +1,6 @@
+name: "MyPet-Feed"
+main: "de.haeherfeder.MyPetFeed.Main"
+version: "v0.0.1"
+commands:
+  "feed":
+    "description": "Feeds a MyPet"
