@@ -1,9 +1,10 @@
 name: "MyPet-Feed"
 main: "de.haeherfeder.MyPetFeed.Main"
-version: "v0.0.1"
-api-version: "1.13"
+version: "v0.0.2"
+api-version: "1.19"
 depend:
   - MyPet
 commands:
   "feed":
     "description": "Feeds a MyPet"
+    "aliases": ["mypet:petfeed","petfeed","mypet:feed"]
