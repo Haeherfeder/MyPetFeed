@@ -7,4 +7,4 @@ depend:
 commands:
   "feed":
     "description": "Feeds a MyPet"
-    "aliases": ["mypet:petfeed","petfeed","mypet:feed"]
+    "aliases": ["petfeed"]
